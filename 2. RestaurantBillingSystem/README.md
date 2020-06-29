@@ -7,7 +7,7 @@
 * Clone this into your Desktop: `git clone "https://github.com/tusharnankani/ProjectBasedLearning"`
 * Open Command Line or Terminal 
 * Change directory to 2. Restaurant Billing System: `cd "Desktop\Git\ProjectBasedLearning\2. RestaurantBillingSystem"`
-* Run script.py: `python script.py`
+* Run [script.py](https://github.com/tusharnankani/ProjectBasedLearning/blob/master/2.%20RestaurantBillingSystem/script.py): `python script.py`
 
 # Demo
 ![1](https://user-images.githubusercontent.com/61280281/86007667-59274400-ba35-11ea-899e-0bb3af94da1c.png)
