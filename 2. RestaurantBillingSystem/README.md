@@ -9,3 +9,6 @@
 * Change directory to 2. Restaurant Billing System: `cd "Desktop\Git\ProjectBasedLearning\2. RestaurantBillingSystem"`
 * Run script.py: `python script.py`
 
+# Demo
+![1](https://user-images.githubusercontent.com/61280281/86007667-59274400-ba35-11ea-899e-0bb3af94da1c.png)
+![2](https://user-images.githubusercontent.com/61280281/86007670-5af10780-ba35-11ea-9057-5a128f8b5c45.png)
