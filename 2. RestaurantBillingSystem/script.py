@@ -1,15 +1,15 @@
 from food import Food
 from drink import Drink
 
-food1 = Food('Sandwich', 5, 330)
-food2 = Food('Chocolate Cake', 4, 450)
-food3 = Food('Cream Puff', 2, 180)
+food1 = Food('Sandwich', 50, 330)
+food2 = Food('Chocolate Cake', 40, 450)
+food3 = Food('Cream Puff', 20, 180)
 
 foods = [food1, food2, food3]
 
-drink1 = Drink('Coffee', 3, 180)
-drink2 = Drink('Orange Juice', 2, 350)
-drink3 = Drink('Espresso', 3, 30)
+drink1 = Drink('Coffee', 30, 180)
+drink2 = Drink('Orange Juice', 20, 350)
+drink3 = Drink('Espresso', 30, 30)
 
 drinks = [drink1, drink2, drink3]
 
